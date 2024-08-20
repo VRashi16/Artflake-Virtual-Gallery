@@ -3,20 +3,20 @@ ArtFlake is an innovative virtual art gallery platform designed to elevate the e
 Powered by a sophisticated blend of technologies, ArtFlake redefines the way users interact with art in the digital space. The platform’s back-end is built using Spring Boot and Spring Data JPA, ensuring reliable user authentication, efficient data management, and smooth communication between server and client components. The integration of RESTful Web Services enables seamless data retrieval and interaction, providing users with a responsive and dynamic experience.
 
 # Technologies used:
-● Spring Boot
-● Spring Data JPA
-● RESTful Web
-● Spring Web
-● Spring Security
-● JWT
-● MYSQL Workbench 8.0 CE
-● React JS
-● React Router DOM
-● Axios
-● HTML and CSS
-● DaisyUI
-● Bootstrap
-● Git
+- Spring Boot
+- Spring Data JPA
+- RESTful Web
+- Spring Web
+- Spring Security
+- JWT
+- MYSQL Workbench 8.0 CE
+- React JS
+- React Router DOM
+- Axios
+- HTML and CSS
+- DaisyUI
+- Bootstrap
+- Git
 
 # Screenshots:
 ![Screenshot (280)](https://github.com/user-attachments/assets/02f38e73-f507-43a1-a7b2-21add32a1c79)
